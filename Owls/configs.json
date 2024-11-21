@@ -1,0 +1,18 @@
+{
+  "timeZone": "en-US",
+  "isSkipInvalidProxy": false,
+  "delayEachAccount": [5, 8],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 100,
+  "isDoTasks": true,
+  "isPlayGames": true,
+  "referralCode": "",
+  "howManySlotGameDoYouWantToPlay": 1,
+  "amountOfOwlsYouWantToBetInSlotGame": 50,
+  "howManyHootSpinGameDoYouWantToPlay": 1,
+  "amountOfOwlsYouWantToBetInHootSpinGame": 50,
+  "howManyHeadOrTailGameDoYouWantToPlay": 1,
+  "amountOfOwlsYouWantToBetInHeadOrTailGame": 50,
+  "howManyRockPaperScissorsDoYouWantToPlay": 1,
+  "amountOfOwlsYouWantToBetInRockPaperScissorsGame": 50
+}
