@@ -1,0 +1,1 @@
+console.log(`Stop updating this scripts, please choose another!`)
